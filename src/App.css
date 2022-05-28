@@ -1,0 +1,13 @@
+.App{
+  padding: 150px;
+}
+
+.bg-primary{
+  background-color: blue;
+  color: #fff;
+}
+
+.bg-dark{
+  background-color: #000;
+  color: #fff;
+}
